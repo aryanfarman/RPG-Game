@@ -1,0 +1,19 @@
+{
+  "name": "rpg-game",
+  "version": "2.0.0",
+  "description": "This is for an exercise for bootcamp",
+  "main": "dist/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "debug": "^4.3.3",
+    "supports-color": "^9.2.1"
+  },
+  "devDependencies": {
+    "@types/debug": "^4.1.7"
+  }
+}
